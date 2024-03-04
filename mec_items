@@ -1,0 +1,1937 @@
+{
+  {
+    name = "Prudentium Essence",
+    stamps = {
+      {
+        amount = 6,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond File",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond File",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond File",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond File",
+    stamps = {
+      {
+        amount = 8,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Arcane Essence",
+    stamps = {
+      {
+        amount = 228,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Certus Quartz Essence",
+    stamps = {
+      {
+        amount = 271872,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Gold Essence",
+    stamps = {
+      {
+        amount = 307851,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Sulfur Dust",
+    stamps = {
+      {
+        amount = 1359,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Soulium Essence",
+    stamps = {
+      {
+        amount = 413933,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Blaze Gold Ingot",
+    stamps = {
+      {
+        amount = 4,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Aluminum Ingot",
+    stamps = {
+      {
+        amount = 477201,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Inanite Ingot",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Essence",
+    stamps = {
+      {
+        amount = 639086,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Iron Dust",
+    stamps = {
+      {
+        amount = 103,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Osmium Ingot",
+    stamps = {
+      {
+        amount = 383802,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Bauxite Dust",
+    stamps = {
+      {
+        amount = 78,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Dark Steel Ingot",
+    stamps = {
+      {
+        amount = 24,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Fluorite Essence",
+    stamps = {
+      {
+        amount = 94506,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Vibranium Essence",
+    stamps = {
+      {
+        amount = 369698,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Uranium Essence",
+    stamps = {
+      {
+        amount = 74491,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Spirited Crystal Essence",
+    stamps = {
+      {
+        amount = 39172,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Cinder Essence",
+    stamps = {
+      {
+        amount = 3,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Yellow Garnet Dust",
+    stamps = {
+      {
+        amount = 6377,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Redstone Essence",
+    stamps = {
+      {
+        amount = 111813,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Essence of Undeath",
+    stamps = {
+      {
+        amount = 3,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Sulfur Essence",
+    stamps = {
+      {
+        amount = 813,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Crimson Iron Ingot",
+    stamps = {
+      {
+        amount = 11,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Imperium Essence",
+    stamps = {
+      {
+        amount = 6,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Nickel Ingot",
+    stamps = {
+      {
+        amount = 371460,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Cassiterite Dust",
+    stamps = {
+      {
+        amount = 5,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Endstone Dust",
+    stamps = {
+      {
+        amount = 33505,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond",
+    stamps = {
+      {
+        amount = 26833,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Holy Water II",
+    stamps = {
+      {
+        amount = 15,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Saw",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Saw",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Saw",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Saw",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Blazing Crystal Essence",
+    stamps = {
+      {
+        amount = 33277,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Chestplate",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Chestplate",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Quick-Minded Diamond Chestplate of the Wizard",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Allthemodium Essence",
+    stamps = {
+      {
+        amount = 324494,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Deepslate Dust",
+    stamps = {
+      {
+        amount = 48295,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Constantan Ingot",
+    stamps = {
+      {
+        amount = 24,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Emerald Essence",
+    stamps = {
+      {
+        amount = 262629,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Honey Essence",
+    stamps = {
+      {
+        amount = 61549,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Platinum Dust",
+    stamps = {
+      {
+        amount = 70,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Garnet Sand Dust",
+    stamps = {
+      {
+        amount = 27,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Refined Obsidian Essence",
+    stamps = {
+      {
+        amount = 389219,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hammer",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Lead Ingot",
+    stamps = {
+      {
+        amount = 3136,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Desh Nugget",
+    stamps = {
+      {
+        amount = 32,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Iron Essence",
+    stamps = {
+      {
+        amount = 413880,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Mica Dust",
+    stamps = {
+      {
+        amount = 4,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Corrupted Dust",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Invar Ingot",
+    stamps = {
+      {
+        amount = 3,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Glowstone Essence",
+    stamps = {
+      {
+        amount = 307590,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Sky Steel Ingot",
+    stamps = {
+      {
+        amount = 20,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Redstone Dust",
+    stamps = {
+      {
+        amount = 28,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Lumium Ingot",
+    stamps = {
+      {
+        amount = 20,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Fertilized Essence",
+    stamps = {
+      {
+        amount = 1202466,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Supremium Essence",
+    stamps = {
+      {
+        amount = 4,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Coal Essence",
+    stamps = {
+      {
+        amount = 120739,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Signalum Ingot",
+    stamps = {
+      {
+        amount = 104,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wire Cutter",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wire Cutter",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wire Cutter",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wire Cutter",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Coke Dust",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Ore",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Sky Stone Dust",
+    stamps = {
+      {
+        amount = 324,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Ice Essence",
+    stamps = {
+      {
+        amount = 85328,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Energized Steel Essence",
+    stamps = {
+      {
+        amount = 36635,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Rubber Ingot",
+    stamps = {
+      {
+        amount = 21,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hoe",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hoe",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hoe",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Hoe",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Nether Quartz Dust",
+    stamps = {
+      {
+        amount = 3,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Insanite Ingot",
+    stamps = {
+      {
+        amount = 10,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Ostrum Ingot",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Silicon Dust",
+    stamps = {
+      {
+        amount = 5150,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Enderman Essence",
+    stamps = {
+      {
+        amount = 249413,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tin Ingot",
+    stamps = {
+      {
+        amount = 468158,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Raw Plutonium",
+    stamps = {
+      {
+        amount = 2238,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Compressed Iron Ingot",
+    stamps = {
+      {
+        amount = 38,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Murderous Diamond Axe of the Bull",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Gold Nugget",
+    stamps = {
+      {
+        amount = 96408,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Shovel",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Fluix Dust",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Obsidian Essence",
+    stamps = {
+      {
+        amount = 442121,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Uraninite Essence",
+    stamps = {
+      {
+        amount = 233942,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Nitro Crystal Essence",
+    stamps = {
+      {
+        amount = 27247,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Hellforged Ingot",
+    stamps = {
+      {
+        amount = 8,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Lead Ingot",
+    stamps = {
+      {
+        amount = 365959,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Enderium Ingot",
+    stamps = {
+      {
+        amount = 245,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Magnetite Dust",
+    stamps = {
+      {
+        amount = 24,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Pitchblende Dust",
+    stamps = {
+      {
+        amount = 242,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Flux Dust",
+    stamps = {
+      {
+        amount = 472,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Ridiculite Ingot",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Refined Obsidian Ingot",
+    stamps = {
+      {
+        amount = 33,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Nether Quartz Essence",
+    stamps = {
+      {
+        amount = 110221,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Gold Dust",
+    stamps = {
+      {
+        amount = 206,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Netherrack Dust",
+    stamps = {
+      {
+        amount = 36668,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Talc Dust",
+    stamps = {
+      {
+        amount = 140,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Raw Rubber Dust",
+    stamps = {
+      {
+        amount = 417,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Dye Essence",
+    stamps = {
+      {
+        amount = 132473,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tertium Essence",
+    stamps = {
+      {
+        amount = 5,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Holy Water",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Enderium Essence",
+    stamps = {
+      {
+        amount = 275091,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Raw Diamond",
+    stamps = {
+      {
+        amount = 3170,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Silver Dust",
+    stamps = {
+      {
+        amount = 56,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Amethyst Essence",
+    stamps = {
+      {
+        amount = 411569,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Sphalerite Dust",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Quartz Enriched Iron Essence",
+    stamps = {
+      {
+        amount = 180815,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Brass Dust",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Screwdriver",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Screwdriver",
+    stamps = {
+      {
+        amount = 3,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Screwdriver",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Water Bucket",
+    stamps = {
+      {
+        amount = 9,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Arsenic Dust",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Imperium Ingot",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Copper Essence",
+    stamps = {
+      {
+        amount = 244601,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Small Pile of Gallium Dust",
+    stamps = {
+      {
+        amount = 302,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Gold Ingot",
+    stamps = {
+      {
+        amount = 26194,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Soulium Dust",
+    stamps = {
+      {
+        amount = 4073,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Inferium Essence",
+    stamps = {
+      {
+        amount = 137362,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Water Essence",
+    stamps = {
+      {
+        amount = 219088,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Saltpeter Dust",
+    stamps = {
+      {
+        amount = 42,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Steel Ingot",
+    stamps = {
+      {
+        amount = 60,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Leggings",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Windswept Diamond Leggings",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Quick-Minded Diamond Leggings of Stubbornness",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Gallium Dust",
+    stamps = {
+      {
+        amount = 6231,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Lapis Lazuli Essence",
+    stamps = {
+      {
+        amount = 233839,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Certus Quartz Dust",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Water Bottle",
+    stamps = {
+      {
+        amount = 14,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Prismarine Essence",
+    stamps = {
+      {
+        amount = 61033,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Sky Stone Essence",
+    stamps = {
+      {
+        amount = 253135,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Silicon Essence",
+    stamps = {
+      {
+        amount = 157330,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Cobalt Dust",
+    stamps = {
+      {
+        amount = 3,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Copper Ingot",
+    stamps = {
+      {
+        amount = 434252,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wrench",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wrench",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wrench",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wrench",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Wrench",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Tiny Pile of Diamond Dust",
+    stamps = {
+      {
+        amount = 6,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Coal Dust",
+    stamps = {
+      {
+        amount = 19,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Iron Ingot",
+    stamps = {
+      {
+        amount = 338244,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Gallium Arsenide Dust",
+    stamps = {
+      {
+        amount = 2,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Cobaltite Dust",
+    stamps = {
+      {
+        amount = 456,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Granite Dust",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Bronze Dust",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Cobalt Dust",
+    stamps = {
+      {
+        amount = 148,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Zinc Dust",
+    stamps = {
+      {
+        amount = 1036,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Sword",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Grave Dust",
+    stamps = {
+      {
+        amount = 102,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Cobalt Brass Dust",
+    stamps = {
+      {
+        amount = 8,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Traveler's Backpack",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Earth Essence",
+    stamps = {
+      {
+        amount = 4,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Gem Dust",
+    stamps = {
+      {
+        amount = 8,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Draconic Dust",
+    stamps = {
+      {
+        amount = 5270,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Saltpeter Dust",
+    stamps = {
+      {
+        amount = 258,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Cyanite Ingot",
+    stamps = {
+      {
+        amount = 11149,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Intelligent Diamond Helmet of the Wizard",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Stalwart Diamond Helmet of Iron",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Helmet",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Helmet",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Ironforged Diamond Helmet of the Defender",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Roy's Arcane Diamond Great Helm of Iron",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Mel's Fortunate Diamond Cap of Stubbornness",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Quick-Minded Diamond Helmet of the Four-Leaf Clover",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Uranium Ingot",
+    stamps = {
+      {
+        amount = 13915,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Platinum Ingot",
+    stamps = {
+      {
+        amount = 187947,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Squid Essence",
+    stamps = {
+      {
+        amount = 59385,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Glowstone Dust",
+    stamps = {
+      {
+        amount = 3533,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Gallium Dust",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Steel Essence",
+    stamps = {
+      {
+        amount = 137317,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Nether Star Essence",
+    stamps = {
+      {
+        amount = 71230,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Rubber Essence",
+    stamps = {
+      {
+        amount = 270455,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Silver Ingot",
+    stamps = {
+      {
+        amount = 378737,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Insanium Essence",
+    stamps = {
+      {
+        amount = 1681,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Iron Nugget",
+    stamps = {
+      {
+        amount = 107,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Mundabitur Dust",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Dirty Iron Dust",
+    stamps = {
+      {
+        amount = 4,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Dirt Essence",
+    stamps = {
+      {
+        amount = 269118,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Sulfur Dust",
+    stamps = {
+      {
+        amount = 13,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Niotic Crystal Essence",
+    stamps = {
+      {
+        amount = 30946,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Ironforged Diamond Boots of the Fast-Wit",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Boots",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Blessed Diamond Boots of the Fast-Wit",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Saltpeter Dust",
+    stamps = {
+      {
+        amount = 128,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Blaze Essence",
+    stamps = {
+      {
+        amount = 201103,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Gloves",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Gloves",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Gloves",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Diamond Gloves",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Mana Diamond",
+    stamps = {
+      {
+        amount = 1,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Unobtainium Essence",
+    stamps = {
+      {
+        amount = 53046,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Blaze Gold Nugget",
+    stamps = {
+      {
+        amount = 58,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Fish Essence",
+    stamps = {
+      {
+        amount = 15362,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Netherite Essence",
+    stamps = {
+      {
+        amount = 335455,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Desh Ingot",
+    stamps = {
+      {
+        amount = 800,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Stone Dust",
+    stamps = {
+      {
+        amount = 55985,
+        timestamp = 0,
+      },
+    },
+  },
+  {
+    name = "Fluix Essence",
+    stamps = {
+      {
+        amount = 219573,
+        timestamp = 0,
+      },
+    },
+  },
+}
